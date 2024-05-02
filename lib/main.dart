@@ -258,7 +258,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 }else{
                   p1.setVolume(0); 
                 }
-              }, icon: Icon(Icons.audio_file)))
+              }, icon: Icon(p1.volume == 0? Icons.volume_off : Icons.volume_up)))
           ],
         ),
       ),

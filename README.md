@@ -1,16 +1,17 @@
-# year_countdown
+# New Year Countdown App
 
-A new Flutter project.
+## Description
 
-## Getting Started
+The New Year Countdown App is a Flutter application designed to keep track of the time left until the next new year. This app provides a fun and visually appealing way to see how many days, hours, minutes, and seconds are left until Hamal (حمل) 1st, It's perfect for anyone who cares about their time. 
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Countdown Timer**: Shows the time left down to the second until the next new year.
+- **Beautiful UI**: A user-friendly interface that's easy on the eyes.
+- **Responsive Design**: Works well on both iOS and Android devices of varying screen sizes.
+- **Sound Effect**: The Timer has tic tac sound which you set it on or off
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here are some screenshots of the New Year Countdown App in action:
+
